@@ -19,9 +19,14 @@
 1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Популярные курсы](https://netology.ru/popular)
 
 ![image](https://github.com/user-attachments/assets/9e6bd4a4-2832-48df-a60c-9ce2277a570f)
-1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Каталог курсов](https://netology.ru/navigation)
+
+7. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Каталог курсов](https://netology.ru/navigation)
 
 ![image](https://github.com/user-attachments/assets/2e8b9b86-2046-4e13-a765-5a6efcd7e3d8)
-1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Программирование](https://netology.ru/development)
+
+8. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Программирование](https://netology.ru/development)
 
 ![image](https://github.com/user-attachments/assets/6d74341d-1ae9-4c5b-9fd5-25c5a2ae7e37)
+
+9.Переход [сверху страницы курса](https://netology.ru/programs/qa#/) "Тестировщик ПО" к форме записи на курс
+![image](https://github.com/user-attachments/assets/0825be76-db51-4ed9-b142-1bf8db9c1ea9)

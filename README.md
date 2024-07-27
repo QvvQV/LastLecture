@@ -16,12 +16,12 @@
 ![image](https://github.com/user-attachments/assets/e23f4490-d3e9-403a-82fc-67bd4d28f21a)
 1. Навигация с [Главной страницы](https://netology.ru/#/), через Хеддер "Популярные программы", учится бесплатно
 ![image](https://github.com/user-attachments/assets/73cb0be7-c35a-4ab6-9245-045ae4f0ad6c)
-1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал "Популярные курсы"
+1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Популярные курсы](https://netology.ru/popular)
 
 ![image](https://github.com/user-attachments/assets/9e6bd4a4-2832-48df-a60c-9ce2277a570f)
-1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал "Каталог курсов"
+1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Каталог курсов](https://netology.ru/navigation)
 
 ![image](https://github.com/user-attachments/assets/2e8b9b86-2046-4e13-a765-5a6efcd7e3d8)
-1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал Программирование"
+1. Навигация с [Главной страницы](https://netology.ru/#/), через подвал [Программирование](https://netology.ru/development)
 
 ![image](https://github.com/user-attachments/assets/6d74341d-1ae9-4c5b-9fd5-25c5a2ae7e37)
